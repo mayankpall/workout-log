@@ -1,0 +1,11 @@
+{
+  "name": "Training Ledger",
+  "short_name": "Training Ledger",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#14161A",
+  "theme_color": "#14161A",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
